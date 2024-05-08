@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+/*
 #define LED_PIN 14          
 #define BTN_PIN 13          
 #define BTN_START_PIN 15    
@@ -65,3 +65,4 @@ void loop() {
     }
   }
 }
+*/
